@@ -1,0 +1,22 @@
+{
+  "name": "node-request",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karen1au/w2d1-request.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karen1au/w2d1-request/issues"
+  },
+  "homepage": "https://github.com/karen1au/w2d1-request#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
